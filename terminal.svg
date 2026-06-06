@@ -41,8 +41,8 @@
   <path d="M28 306 L14 306 L14 292" stroke="#38bdf8" stroke-width="2.5" fill="none" stroke-linecap="round"/>
   <path d="M792 306 L806 306 L806 292" stroke="#38bdf8" stroke-width="2.5" fill="none" stroke-linecap="round"/>
 
-  <!-- Hello, World! -->
-  <text class="hello" x="35" y="50" font-family="Courier New, monospace" font-size="14" fill="#34d399" letter-spacing="1">Hello, World! 👋</text>
+  <!-- Welcome to GitHub -->
+  <text class="hello" x="35" y="50" font-family="Courier New, monospace" font-size="14" fill="#34d399" letter-spacing="1">Welcome to GitHub 👾</text>
 
   <!-- YASMIN — pink -->
   <text class="name1" x="35" y="118" font-family="Courier New, monospace" font-size="64" font-weight="bold" fill="#f472b6" letter-spacing="6">YASMIN</text>
@@ -57,8 +57,8 @@
   <line class="divider" x1="35" y1="224" x2="600" y2="224" stroke="#2a2560" stroke-width="1"/>
 
   <!-- Description -->
-  <text class="desc1" x="35" y="244" font-family="Courier New, monospace" font-size="13" fill="#ede9ff">Transformando dados bagunçados em decisões que movem o negócio.</text>
-  <text class="desc2" x="35" y="261" font-family="Courier New, monospace" font-size="13" fill="#ede9ff">Dashboards interativos, ML preditivo e análise com Python.</text>
+  <text class="desc1" x="35" y="244" font-family="Courier New, monospace" font-size="13" fill="#ede9ff"><tspan fill="#34d399" font-weight="bold">Hello, World!</tspan> Transformando dados bagunçados em ideias que importam —</text>
+  <text class="desc2" x="35" y="261" font-family="Courier New, monospace" font-size="13" fill="#ede9ff">dashboards interativos, ML preditivo e Python.</text>
 
   <!-- Logged in -->
   <circle class="logged" cx="36" cy="280" r="5" fill="#f472b6"/>
