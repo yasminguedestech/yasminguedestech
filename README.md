@@ -170,15 +170,23 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=yasminguedestech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=a78bfa&text_color=ede9ff&cache_seconds=1800&rank_icon=github"/>
-&nbsp;&nbsp;
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminguedestech&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=f472b6&text_color=ede9ff&cache_seconds=1800"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasminguedestech&theme=github_dark" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=yasminguedestech&theme=transparent&hide_border=true&background=0d1117&ring=f472b6&fire=fbbf24&currStreakLabel=a78bfa&sideLabels=8b7ec8&dates=8b7ec8&stroke=2a2560"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasminguedestech&theme=github_dark" height="150em"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasminguedestech&theme=github_dark" height="150em"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasminguedestech&theme=github_dark" height="150em"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yasminguedestech&theme=tokyonight&hide_border=true&background=0d1117&ring=f472b6&fire=fbbf24&currStreakLabel=a78bfa&sideLabels=8b7ec8&dates=8b7ec8)](https://git.io/streak-stats)
 
 </div>
 
