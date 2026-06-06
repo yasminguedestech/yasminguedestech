@@ -1,0 +1,44 @@
+<svg width="820" height="320" viewBox="0 0 820 320" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="820" height="320" rx="14" fill="#0d1117"/>
+  <!-- Border glow pink -->
+  <rect x="1.5" y="1.5" width="817" height="317" rx="13" fill="none" stroke="#f472b6" stroke-width="1.2" opacity="0.5"/>
+
+  <!-- Corner brackets — cyan -->
+  <path d="M28 14 L14 14 L14 28" stroke="#38bdf8" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M792 14 L806 14 L806 28" stroke="#38bdf8" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M28 306 L14 306 L14 292" stroke="#38bdf8" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M792 306 L806 306 L806 292" stroke="#38bdf8" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+
+  <!-- Welcome to GitHub -->
+  <text x="35" y="50" font-family="Courier New, monospace" font-size="13" fill="#8b7ec8" letter-spacing="1">Welcome to GitHub</text>
+
+  <!-- YASMIN GUEDES big title -->
+  <text x="35" y="118" font-family="Courier New, monospace" font-size="64" font-weight="bold" fill="#38bdf8" letter-spacing="6">YASMIN</text>
+  <text x="35" y="183" font-family="Courier New, monospace" font-size="64" font-weight="bold" fill="#38bdf8" letter-spacing="6">GUEDES</text>
+
+  <!-- Subtitle -->
+  <text x="36" y="208" font-family="Courier New, monospace" font-size="13" fill="#8b7ec8" letter-spacing="1">Data Analyst · Python · BI · Dashboards</text>
+
+  <!-- Divider line -->
+  <line x1="35" y1="224" x2="600" y2="224" stroke="#2a2560" stroke-width="1"/>
+
+  <!-- Description -->
+  <text x="35" y="244" font-family="Courier New, monospace" font-size="13" fill="#ede9ff">Transformando dados bagunçados em insights que movem o negócio.</text>
+  <text x="35" y="261" font-family="Courier New, monospace" font-size="13" fill="#ede9ff">Dashboards interativos, ML preditivo e análise com Python.</text>
+
+  <!-- Logged in -->
+  <circle cx="36" cy="280" r="5" fill="#f472b6"/>
+  <text x="48" y="284" font-family="Courier New, monospace" font-size="13" fill="#ede9ff">Logged in as user: <tspan fill="#f472b6" font-weight="bold">yasminguedestech</tspan></text>
+
+  <!-- Path -->
+  <text x="35" y="300" font-family="Courier New, monospace" font-size="13" fill="#ede9ff">~/YasminRepo <tspan fill="#a78bfa">[∠main]</tspan></text>
+
+  <!-- GitHub icon — pink, right side, centered -->
+  <g transform="translate(660, 55) scale(4.8)">
+    <path d="M12 0C5.37 0 0 5.37 0 12c0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 21.795 24 17.298 24 12c0-6.63-5.37-12-12-12z" fill="#f472b6"/>
+  </g>
+
+  <!-- Command box -->
+  <rect x="25" y="308" width="770" height="0" rx="6" fill="#100f2e" stroke="#2a2560" stroke-width="1"/>
+</svg>
