@@ -1,10 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=3000&color=F472B6&center=true&vCenter=true&width=620&height=90&lines=Yasmin+Guedes)](https://git.io/typing-svg)
-
-**`Data Analyst · Python · BI · Dashboards`**
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=a78bfa&center=true&vCenter=true&width=540&lines=Transformando+dados+em+decis%C3%B5es+%F0%9F%93%8A;Dashboards+interativos+com+Python+%2B+Plotly;ML+preditivo+com+scikit-learn+%2B+XGBoost+%F0%9F%A4%96;S%C3%A3o+Paulo%2C+Brasil+%F0%9F%87%A7%F0%9F%87%B7)](https://git.io/typing-svg)
+<img src="./terminal.svg" width="100%"/>
 
 <br>
 
