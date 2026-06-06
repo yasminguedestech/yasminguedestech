@@ -1,116 +1,162 @@
-<!-- Header animado -->
 <div align="center">
 
-```
-██╗   ██╗ █████╗ ███████╗███╗   ███╗██╗███╗   ██╗
-╚██╗ ██╔╝██╔══██╗██╔════╝████╗ ████║██║████╗  ██║
- ╚████╔╝ ███████║███████╗██╔████╔██║██║██╔██╗ ██║
-  ╚██╔╝  ██╔══██║╚════██║██║╚██╔╝██║██║██║╚██╗██║
-   ██║   ██║  ██║███████║██║ ╚═╝ ██║██║██║ ╚████║
-   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C026A0,6366f1,a78bfa&height=200&section=header&text=Yasmin+Guedes&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data+Analyst+%7C+Python+%7C+BI&descAlignY=58&descSize=18&descColor=f0abdc&animation=fadeIn" width="100%"/>
 
-### `turning raw data into real stories` 🐍📊
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+BI+%7C+Python+%F0%9F%90%8D;Transformando+dados+em+decis%C3%B5es+%F0%9F%93%8A;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F472B6&center=true&vCenter=true&width=520&lines=Transformando+dados+em+decis%C3%B5es+%F0%9F%93%8A;Python+%7C+SQL+%7C+Dash+%7C+Power+BI+%7C+Plotly;Dashboards+interativos+%2B+ML+preditivo+%F0%9F%A4%96;S%C3%A3o+Paulo%2C+Brasil+%F0%9F%87%A7%F0%9F%87%B7)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## `$ whoami` 👩‍💻
-
-Olá! Sou a **Yasmin Guedes** — analista de dados júnior apaixonada por transformar planilhas caóticas em insights que fazem sentido de verdade. 
-
-Acredito que por trás de cada dado existe uma história esperando para ser contada. O meu trabalho é contar essa história da forma mais clara e bonita possível. 🎯
+## 🧬 Sobre mim
 
 ```python
 yasmin = {
-    "localização":  "Brasil 🇧🇷",
-    "foco":         ["Data Analytics", "Business Intelligence", "Python"],
-    "atualmente":   "aprendendo Cloud & Big Data ☁️",
-    "superpoder":   "transformar dados bagunçados em dashboards lindos",
-    "café_por_dia": float("inf")  # não pergunte
+    "localização"  : "São Paulo, Brasil 🇧🇷",
+    "foco"         : ["Data Analytics", "Business Intelligence", "Dashboards"],
+    "ferramentas"  : ["Python", "SQL", "Dash", "Plotly", "Power BI", "scikit-learn"],
+    "atualmente"   : "construindo projetos de portfólio com dados reais 📊",
+    "superpoder"   : "transformar planilhas caóticas em insights acionáveis",
+    "portfólio"    : "https://yasminguedes.vercel.app",
 }
-```
-
----
-
-## `$ ls skills/` 🛠️
-
-<div align="center">
-
-### 🐍 Linguagens & Análise
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-
-### 📊 BI & Visualização
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-### ☁️ Cloud & Big Data
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
-
-### 🌿 Ferramentas & Versionamento
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-
-### 🔄 Metodologias
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logoColor=white)
-![Lean](https://img.shields.io/badge/Lean-FF6B35?style=for-the-badge&logoColor=white)
-
-### 🏢 Business & ERP
-![ERP TOTVS](https://img.shields.io/badge/ERP%20TOTVS-E31837?style=for-the-badge&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Customer Success](https://img.shields.io/badge/Customer%20Success-00C851?style=for-the-badge&logoColor=white)
-
-### 🌐 Idiomas
-![Inglês](https://img.shields.io/badge/Inglês-Intermediário%2FAvançado-blue?style=for-the-badge&logo=googletranslate&logoColor=white)
-
-</div>
-
----
-
-## `$ cat /dev/mind` 🧠
-
-```
-📊  Dados brutos  →  🔍  Exploração  →  🐍  Python/SQL  →  📈  Dashboard  →  💡  Insight
 ```
 
 > *"Sem dados, você é apenas mais uma pessoa com uma opinião."* — W. Edwards Deming
 
 ---
 
-## `$ git stats` 📈
+## 🛠️ Ferramentas
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasminguedestech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminguedestech&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+**Análise & Linguagens**
 
-</div>
+![Python](https://img.shields.io/badge/Python-08071a?style=for-the-badge&logo=python&logoColor=f472b6)
+![SQL](https://img.shields.io/badge/SQL-08071a?style=for-the-badge&logo=postgresql&logoColor=38bdf8)
+![Pandas](https://img.shields.io/badge/Pandas-08071a?style=for-the-badge&logo=pandas&logoColor=a78bfa)
+![NumPy](https://img.shields.io/badge/NumPy-08071a?style=for-the-badge&logo=numpy&logoColor=38bdf8)
 
-<div align="center">
+**Dashboards & Visualização**
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yasminguedestech&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![Dash](https://img.shields.io/badge/Dash-08071a?style=for-the-badge&logo=plotly&logoColor=f472b6)
+![Plotly](https://img.shields.io/badge/Plotly-08071a?style=for-the-badge&logo=plotly&logoColor=a78bfa)
+![Power BI](https://img.shields.io/badge/Power%20BI-08071a?style=for-the-badge&logo=powerbi&logoColor=fbbf24)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-08071a?style=for-the-badge&logo=python&logoColor=38bdf8)
+
+**Machine Learning**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-08071a?style=for-the-badge&logo=scikitlearn&logoColor=f472b6)
+![XGBoost](https://img.shields.io/badge/XGBoost-08071a?style=for-the-badge&logo=python&logoColor=fbbf24)
+
+**Cloud & Big Data**
+
+![AWS](https://img.shields.io/badge/AWS-08071a?style=for-the-badge&logo=amazonaws&logoColor=fbbf24)
+![BigQuery](https://img.shields.io/badge/BigQuery-08071a?style=for-the-badge&logo=googlebigquery&logoColor=38bdf8)
+![Excel](https://img.shields.io/badge/Excel-08071a?style=for-the-badge&logo=microsoftexcel&logoColor=34d399)
+![Git](https://img.shields.io/badge/Git-08071a?style=for-the-badge&logo=git&logoColor=f472b6)
 
 </div>
 
 ---
 
-## `$ ping yasmin` 📬
+## 🚀 Projetos em Destaque
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center">💳 Churn Analytics — Fintech</h3>
+      <p align="center">Dashboard executivo de 9 páginas com modelo preditivo (Random Forest + XGBoost). Identificou R$ 4.3M em receita em risco.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-f472b6?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Dash-a78bfa?style=flat&logo=plotly&logoColor=white"/>
+        <img src="https://img.shields.io/badge/XGBoost-38bdf8?style=flat"/>
+        <br><br>
+        <a href="https://github.com/yasminguedestech/churn-fintech-dashboard">
+          <img src="https://img.shields.io/badge/Ver%20Projeto-100f2e?style=for-the-badge&logo=github&logoColor=f472b6"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎯 Customer Health Score — SaaS</h3>
+      <p align="center">Score 0–100 que consolida engajamento, suporte e receita. Identificou R$ 79K de MRR ameaçado e 73 clientes em risco.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-f472b6?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Dash-a78bfa?style=flat&logo=plotly&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-38bdf8?style=flat"/>
+        <br><br>
+        <a href="https://github.com/yasminguedestech/customer-health-score">
+          <img src="https://img.shields.io/badge/Ver%20Projeto-100f2e?style=for-the-badge&logo=github&logoColor=f472b6"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🧠 Knowledge Analytics — IA</h3>
+      <p align="center">Mapeou 3.500 dúvidas internas e calculou R$ 309K/ano de economia ao automatizar respostas com IA.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-f472b6?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Dash-a78bfa?style=flat&logo=plotly&logoColor=white"/>
+        <img src="https://img.shields.io/badge/IA-fbbf24?style=flat"/>
+        <br><br>
+        <a href="https://github.com/yasminguedestech/knowledge-analytics">
+          <img src="https://img.shields.io/badge/Ver%20Projeto-100f2e?style=for-the-badge&logo=github&logoColor=f472b6"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🛒 Funil de Conversão — E-commerce</h3>
+      <p align="center">Identificou queda de 42% no cadastro. Simulador mostra que +10% na conversão = R$ 38K extra/mês.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-f472b6?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Dash-a78bfa?style=flat&logo=plotly&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQL-38bdf8?style=flat"/>
+        <br><br>
+        <a href="https://github.com/yasminguedestech/funil-ecommerce">
+          <img src="https://img.shields.io/badge/Ver%20Projeto-100f2e?style=for-the-badge&logo=github&logoColor=f472b6"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <a href="https://yasminguedes.vercel.app">
+    <img src="https://img.shields.io/badge/🌐%20Ver%20todos%20os%209%20projetos-C026A0?style=for-the-badge&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasminguedestech)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yasminguedestech)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasminguedestech@gmail.com)
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=yasminguedestech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=08071a&title_color=f472b6&icon_color=a78bfa&text_color=ede9ff"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminguedestech&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=08071a&title_color=f472b6&text_color=ede9ff"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yasminguedestech&theme=tokyonight&hide_border=true&background=08071a&ring=f472b6&fire=fbbf24&currStreakLabel=a78bfa)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🔗 Contato
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfólio-C026A0?style=for-the-badge)](https://yasminguedes.vercel.app)
+[![Links](https://img.shields.io/badge/🔗%20Links-6366f1?style=for-the-badge)](https://links-yas.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasmin-guedes-0101/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasminguedestech@gmail.com)
 
 </div>
 
@@ -118,12 +164,8 @@ yasmin = {
 
 <div align="center">
 
-**Visitantes** 👀
+![Visitor Count](https://komarev.com/ghpvc/?username=yasminguedestech&color=C026A0&style=for-the-badge&label=VISITAS)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=yasminguedestech&color=7C3AED&style=for-the-badge&label=VISITAS)
-
----
-
-*Feito com 🐍 Python no coração e ☕ café na xícara*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C026A0,6366f1,a78bfa&height=100&section=footer" width="100%"/>
 
 </div>
