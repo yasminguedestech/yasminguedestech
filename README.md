@@ -170,17 +170,17 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasminguedestech&theme=github_dark" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasminguedestech&theme=radical" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasminguedestech&theme=github_dark" height="150em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasminguedestech&theme=radical" height="150em"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasminguedestech&theme=github_dark" height="150em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasminguedestech&theme=radical" height="150em"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasminguedestech&theme=github_dark" height="150em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasminguedestech&theme=radical" height="150em"/>
 
 </div>
 
