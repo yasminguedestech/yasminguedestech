@@ -174,6 +174,20 @@
 
 </div>
 
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasminguedestech&theme=dracula" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasminguedestech&theme=dracula" height="160em"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasminguedestech&theme=dracula" height="160em"/>
+
+</div>
+
 ---
 
 <div align="center">
