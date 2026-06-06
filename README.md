@@ -170,12 +170,6 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yasminguedestech&hide_border=true&background=0d1117&ring=f472b6&fire=a78bfa&currStreakLabel=f472b6&sideLabels=a78bfa&dates=38bdf8&stroke=2a2560)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasminguedestech&bg_color=0d1117&color=a78bfa&line=f472b6&point=38bdf8&area=true&hide_border=true" width="100%"/>
 
 </div>
