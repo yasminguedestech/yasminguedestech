@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C026A0,6366f1,a78bfa&height=200&section=header&text=yas.data(%20)&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data+Analyst+%7C+Python+%7C+BI&descAlignY=58&descSize=18&descColor=f0abdc&animation=fadeIn" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=2000&color=F472B6&center=true&vCenter=true&width=600&height=80&lines=Yasmin+Guedes)](https://git.io/typing-svg)
 
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F472B6&center=true&vCenter=true&width=520&lines=Transformando+dados+em+decis%C3%B5es+%F0%9F%93%8A;Python+%7C+SQL+%7C+Dash+%7C+Power+BI+%7C+Plotly;Dashboards+interativos+%2B+ML+preditivo+%F0%9F%A4%96;S%C3%A3o+Paulo%2C+Brasil+%F0%9F%87%A7%F0%9F%87%B7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=a78bfa&center=true&vCenter=true&width=520&lines=Transformando+dados+em+decis%C3%B5es+%F0%9F%93%8A;Python+%7C+SQL+%7C+Dash+%7C+Power+BI+%7C+Plotly;Dashboards+interativos+%2B+ML+preditivo+%F0%9F%A4%96;S%C3%A3o+Paulo%2C+Brasil+%F0%9F%87%A7%F0%9F%87%B7)](https://git.io/typing-svg)
 
 </div>
 
@@ -166,6 +162,5 @@ yasmin = {
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=yasminguedestech&color=C026A0&style=for-the-badge&label=VISITAS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C026A0,6366f1,a78bfa&height=100&section=footer" width="100%"/>
 
 </div>
